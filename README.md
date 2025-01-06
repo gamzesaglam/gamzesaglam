@@ -1,7 +1,9 @@
 
-
-
-I am a fullsatck and mobile developer that skilled in developing interactive user interfaces.
-I have a passion for creating user-friendly and functional web applications that look great. I believe in writing clean and structured code to ensure maximum compatibility and performance.
-I am highly motivated, organized, and able to work well both independently and as part of a team.
-I am committed to staying up to date with the latest technologies and trends in web development to ensure the best outcomes.
+👋 Hi, I’m @gamzesaglam
+I am Strong work ethics, growth-driven mindset, adaptability nd exceptional interpersonal & social skills. Adept at working effectively unsupervised and quickly mastering new skills, Quick learner, and a solid team player. An addition, I am an experienced professional in software development. Through participation in various projects, I have acquired a wide range of technical knowledge and skills. My problem-solving approach and desire for continuous learning have enabled me to achieve successful results in both individual and team projects. My strong communication skills and flexible working style support my ability to collaborate effectively on complex projects.
+📌📌I’m interested in as a software development,
+🌱 I’m currently learning HTML5, CSS3, GitHub, Bootstrap, SCSS, JavaScript...
+💞️ I’m looking to collaborate on projects...
+📫 How to reach me gamzesaglam344321@gmail.com
+😄 Pronouns: ...
+⚡ Fun fact: ...
